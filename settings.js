@@ -15,23 +15,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.owner = ['01033260224'] //ur owner number
+global.ownername = "KHELO" //ur owner name
+global.ytname = "YT: KHELO12" //ur yt chanel name
+global.socialm = "GitHub: na2to_3" //ur github or insta name
+global.location = "Africa, Egypt, damanhor" //ur location
 
 //bot bomdy 
-global.ownernomer = "201098906252" //ur number
-global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
-global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.ownernomer = "01033260224" //ur number
+global.premium = ['01033260224'] //ur premium number
+global.botname = 'DIO' //ur bot name
+global.linkz = "https://www.youtube.com/@KHELO120" //your theme url which will be displayed on whatsapp
+global.websitex = "مفيش" //ur website to be displayed
+global.botscript = 'https://www.youtube.com/@KHELO120' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "JOJOHAWE" //ur sticker watermark packname
+global.author = "https://www.youtube.com/@KHELO120" //ur sticker watermark author
+global.wm = "" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -41,14 +41,14 @@ global.sp = ''
 //messages
 global.mess = {
     success: 'تم يروحي✨',
-    admin: '『 الامر دا لادمن بس! 』',
+    admin: '『 الأمر ده للأدمن بس! 』',
     botAdmin: '『 ارفع البوت ادمن الاول 』',
-    premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
+    premime: '『 ميزات خاصه متميزه لو كنت عاوز تسجل نوع الإيجار 』',
     owner: '『 الميزه دي للمطور بس! 』',
     group: '『 الميزه دي للجروبات بس! 』',
     private: '『 الميزه دي في الخاص بس! 』',
     bot: '『 الميزه دي للبوت بس! 』',
-    wait: '『 استني شويه... 』',
+    wait: '『 اصبر شويه... 』',
     linkm: '『 فين الرابط? 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
